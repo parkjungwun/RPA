@@ -18,5 +18,5 @@ def int(a, b):
 num1 = 9
 num2 = 11
 
-mult = int(num1 , num2)
+mult = int(num1, num2)
 print(f'{num1} * {num2} = {mult}')
